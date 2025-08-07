@@ -11,7 +11,10 @@ OMRG-01/OMRG-01 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-https://www.codewars.com/users/omg3110/badges/large
+## 🧠 Codewars Rank
+
+[![Codewars Badge](https://www.codewars.com/users/omg3110/badges/large)](https://www.codewars.com/users/omg3110)
+
 
 ## 🏅 HackerRank Certifications & Badges
 
