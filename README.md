@@ -11,17 +11,29 @@ OMRG-01/OMRG-01 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🏅 HackerRank Certifications
+## 🏅 HackerRank Certifications & Badges
 
-### Java (Basic)
-[![Java Certificate](https://img.shields.io/badge/View%20Certificate-Java%20(Basic)-brightgreen)](https://www.hackerrank.com/certificates/aa543103ecb1)
+### ⭐ Badges
 
-➡️ [Click here to view the certificate in iframe format](https://www.hackerrank.com/certificates/iframe/aa543103ecb1)
+![Java Badge](https://img.shields.io/badge/Java-5%E2%AD%90%20Gold-blue?logo=java&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-2%E2%AD%90%20Silver-lightgrey?logo=sqlite&logoColor=black)
 
-[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?logo=hackerrank)](https://www.hackerrank.com/certificates/aa543103ecb1)
+---
 
+### 📜 Certifications
 
-[![Java Certificate](certs/java-basic.png)](https://www.hackerrank.com/certificates/aa543103ecb1)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/519e480d88fc)
+
+- [![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/685f22e187c9)
+
+- [![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/3f53c792eb0e)
+
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/aa543103ecb1)
+
+---
+
+➡️ *Click on any badge to view the live certificate.*
+
 
 
 
