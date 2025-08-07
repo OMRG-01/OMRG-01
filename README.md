@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏅 HackerRank Certifications
 
-[![Problem Solving Badge](https://img.shields.io/badge/HackerRank-Problem%20Solving-green)](https://www.hackerrank.com/certificates/YOUR_CERT_ID)
+### Java (Basic)
+[![Java Certificate](https://img.shields.io/badge/View%20Certificate-Java%20(Basic)-brightgreen)](https://www.hackerrank.com/certificates/aa543103ecb1)
 
-[![Java Badge](https://img.shields.io/badge/HackerRank-Java-blue)](https://www.hackerrank.com/certificates/YOUR_CERT_ID)
+➡️ [Click here to view the certificate in iframe format](https://www.hackerrank.com/certificates/iframe/aa543103ecb1)
+
 
 <!-- Add more as needed -->
 
