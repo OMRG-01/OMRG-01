@@ -18,6 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ➡️ [Click here to view the certificate in iframe format](https://www.hackerrank.com/certificates/iframe/aa543103ecb1)
 
+[![HackerRank Certificate](https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?logo=hackerrank)](https://www.hackerrank.com/certificates/aa543103ecb1)
+
+
 [![Java Certificate](certs/java-basic.png)](https://www.hackerrank.com/certificates/aa543103ecb1)
 
 
